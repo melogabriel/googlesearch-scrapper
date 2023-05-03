@@ -33,3 +33,7 @@ The script will output the first link of each Google search result for each quer
 
 Note that the script only returns the first link of each search result, and will stop searching after finding the first valid link for each query.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+
